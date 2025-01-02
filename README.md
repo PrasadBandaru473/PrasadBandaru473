@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Bandaru</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Amazon Clone**
-
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Full Stack Web Development**
